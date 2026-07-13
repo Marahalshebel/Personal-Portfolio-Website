@@ -80,4 +80,3 @@ Possible improvements include:
 - Include project images and icons.
 - Add a Contact section with social media links.
 - Improve responsiveness for different screen sizes.
-- Integrate the portfolio with a backend database.
