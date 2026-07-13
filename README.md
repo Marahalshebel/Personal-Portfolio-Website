@@ -66,11 +66,3 @@ Displays technical skills and areas of knowledge.
 
 ### Projects
 Highlights selected academic projects and their descriptions.
-
-
-## Future Improvements
-Possible improvements include:
-- Add JavaScript for interactive features.
-- Include project images and icons.
-- Add a Contact section with social media links.
-- Improve responsiveness for different screen sizes.
