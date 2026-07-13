@@ -13,9 +13,9 @@ The purpose of this project is to practice building a responsive front-end webpa
 
 ## Website Preview
 The following screenshot shows the portfolio homepage.
-![Portfolio Website](OutputScreenshot1.jpg)
-![Portfolio Website](OutputScreenshot2.jpg)
-![Portfolio Website](OutputScreenshot3.jpg)
+![Portfolio Website](OutputScreenshot1.png)
+![Portfolio Website](OutputScreenshot2.png)
+![Portfolio Website](OutputScreenshot3.png)
 
 
 ## Technologies Used
