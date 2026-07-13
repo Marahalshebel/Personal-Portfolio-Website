@@ -20,7 +20,7 @@ The following screenshot shows the portfolio homepage.
 
 ## Technologies Used
 - HTML
-- CSS3
+- CSS
 
 
 ## Project Files
