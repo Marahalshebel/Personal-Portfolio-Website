@@ -19,7 +19,7 @@ The following screenshot shows the portfolio homepage.
 
 
 ## Technologies Used
-- HTML5
+- HTML
 - CSS3
 
 
